@@ -45,7 +45,7 @@ class primaScena extends Phaser.Scene{
         this.load.image('vulcano', './assets/Vulcano.png');
         this.load.image('player2', './assets/player2.png');
         this.load.image('level3', './assets/level3.png');
-        this.load.image('proj', './assets/Proj.png');
+        this.load.image('proj', './assets/Proj.PNG');
         this.load.image('drago', './assets/drago.png');
         this.load.image('fire', './assets/Fire.png');
         this.load.image('cannon2', './assets/cannon1Lv3.png');
